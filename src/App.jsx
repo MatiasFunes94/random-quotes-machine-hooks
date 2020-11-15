@@ -22,7 +22,7 @@ function App() {
   }, [])
 
   const randomQuote = () => {
-    fetch('https://quotes.stormconsultancy.co.uk/random.json')
+    fetch('http://quotes.stormconsultancy.co.uk/random.json')
       .then(r => r.json())
       .then(data => {
         setUserRequest({
