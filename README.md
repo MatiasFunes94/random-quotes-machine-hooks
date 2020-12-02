@@ -2,9 +2,9 @@
 random-quotes-machine app implemented with React Hooks
 
 ## Instructions to run the project
-Clone the git repository
-Open the terminal and type npm install to install all the packages of the project.
-Then type npm start to run the project
+1. Clone the git repository
+2. Open the terminal and type npm install to install all the packages of the project.
+3. Then type npm start to run the project
 
 We can get random quotes by pressing "new quote" button and add them to a favorite section where can also be deleted
 
